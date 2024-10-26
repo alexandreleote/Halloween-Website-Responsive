@@ -7,7 +7,7 @@ Training project in order to understand atropos.js with other main components su
 - using the Mobile First method to adapt the content on every devices
 - building the user experience to be pleasant on every devices
 
-A responsive website tutorial made my BedimCode
+A responsive website tutorial made by BedimCode
 [Watch it on youtube](https://youtu.be/4YePjH9j7UE)
 
 ![preview img](/preview.png)
